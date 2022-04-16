@@ -5,7 +5,7 @@
 | Lebensmittel | Lagerbedingungen | Haltbarkeit |
 | ------ | ------ | ------ |
 | Hackfleisch,roh | 0-4°Celsius | Einkaufstag |
-| Geschnetzeltes,Spieße (roh) | 0-4°Celsius | 1 Tag |
+| Geschnetzeltes (roh) | 0-4°Celsius | 1 Tag |
 | Preview | Preview | Preview |
 | Preview | Preview | Preview |
 | Preview | Preview | Preview |
