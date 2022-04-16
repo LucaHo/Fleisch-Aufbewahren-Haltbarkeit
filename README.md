@@ -8,7 +8,7 @@
 | Geschnetzeltes (roh) | 0-4°Celsius | 1 Tag |
 | Gulasch,Spieße (roh) | 0-4°Celsius | 1 Tag |
 | Innereien (roh) | 0-4°Celsius | 1 Tag |
-| Preview | Preview | Preview |
+| Braten,Steak,Ganze Stücke (roh) | 0-4°Celsius | 3-4 Tage |
 | Preview | Preview | Preview |
 | Preview | Preview | Preview |
 | Preview | Preview | Preview |
