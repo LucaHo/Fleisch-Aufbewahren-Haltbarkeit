@@ -1,8 +1,8 @@
-# Fleisch-Aufbewahren-Haltbarkeit
+# Fleisch Haltbarkeit
 
 ## Table of Contents
 
-| Code | Project | Preview |
+| Lebensmittel | Lagerbedingungen | Haltbarkeit |
 | ------ | ------ | ------ |
 | Preview | Preview | Preview |
 | Preview | Preview | Preview |
