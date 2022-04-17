@@ -1,6 +1,5 @@
 # Fleisch Haltbarkeit
 
-## Table of Contents
 
 | Lebensmittel | Lagerbedingungen | Haltbarkeit |
 | ------ | ------ | ------ |
