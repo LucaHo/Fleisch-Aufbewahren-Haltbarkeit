@@ -19,6 +19,4 @@
 | Hackfleisch,mager | -18°Celsius | 1-3 Monate |
 | Hackfleisch,fett | -18°Celsius | 1 Monat |
 | Hähnchen | -18°Celsius | 8-10 Monate |
-| Preview | Preview | Preview |
-| Preview | Preview | Preview |
-| Preview | Preview | Preview |
+
